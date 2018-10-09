@@ -1,5 +1,9 @@
 ---
+number: 16
+address:  BRCC (West BR Campus)
+artist:  n/a
+sponsor: Billy bob
+comments: not visible from roadway?
+debuted: n/a
+name: STEM: Create Your Future
 ---
-
-This is some text that will be rendered when this mural is displayed
-

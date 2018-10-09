@@ -1,5 +1,9 @@
 ---
+number: 7
+address:  n/a
+artist:  n/a
+sponsor: Billy bob
+comments: too far from roadway?
+debuted: 2012
+name: n/a
 ---
-
-This is some text that will be rendered when this mural is displayed
-
