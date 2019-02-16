@@ -1,9 +1,9 @@
 ---
 number: 59
 address: 9870 Scotland Ave, Baton Rouge, LA 70807
-artist: n/a
-sponsor:
-comments: inside school (Scotlandville Magnet High School), 1292 students http://louisianaschools.com/schools/17079#about-our-school
-debuted:
-name: "Leaving the Leaf on STEM"
+artist: Marc Fresh and SMHS Students
+sponsor: HSEP (High School Engineering Program)
+location: Scotlandville
+debuted: 2017
+name: Leaving the Leaf on STEM
 ---
