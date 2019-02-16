@@ -5,5 +5,5 @@ artist: Kristen Downing + Isla Moon
 sponsor: Mayor-President Sharon Weston Broome + PPG Paints
 location: Mid-City
 debuted: 2017
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
