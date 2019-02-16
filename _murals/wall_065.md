@@ -1,9 +1,9 @@
 ---
 number: 65
 address: 3140 N Sherwood Forest Dr, Baton Rouge, LA 70814
-artist: n/a
-sponsor:
-comments: indoor murals (Park Forest BREC park)
-debuted:
-name: "#LoveBR Youth Summer Murals"
+artist: Brent Houzenga + Jonathan 'Skinny Dope' Brown
+sponsor: Mayor-President Sharon Weston Broome + PPG Paints + BREC
+location: Baton Rouge (Park Forest)
+debuted: 2017
+name: #LoveBR Youth Summer Murals
 ---
