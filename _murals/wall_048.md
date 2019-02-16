@@ -1,9 +1,9 @@
 ---
 number: 48
-address: 1779 Government Street, Baton Rouge, LA
-artist:
-sponsor:
-comments: 
-debuted:
-name: Baton Rouge first well done fuss over a fair bus
+address: 1779 Government Street, Baton Rouge, LA (visible from S 18th Street)
+artist: Langston Allston & Foye Lowe
+sponsor: Sponsor(s): Puryear I.T.
+location: Mid-City
+debuted: 2016
+name: Baton Rouge "First Well Done Fuss Over a Fair Bus"
 ---
