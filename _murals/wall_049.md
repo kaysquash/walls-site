@@ -1,9 +1,9 @@
 ---
-number: 49a
-address: 2921 Government St, Baton Rouge, LA 70806
-artist: Spencer Bagert
-sponsor: 
+number: 49
+address: 2931 Government St, Baton Rouge, LA 70806 
+artist: Skinny Dope
+sponsor: Capital One Bank + Ritter Maher Architects
 location: Mid-City
 debuted: 2016
-name: Twine logo
+name: Purusa peacock
 ---
