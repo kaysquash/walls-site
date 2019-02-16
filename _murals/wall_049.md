@@ -1,9 +1,9 @@
 ---
-number: 49
-address: 2931 Government St, Baton Rouge, LA 70806
-artist:
-sponsor:
-comments: poster, 10'6"x22'9" Gov't/Edison facing E (right)
-debuted:
-name: peacock
+number: 49a
+address: 2921 Government St, Baton Rouge, LA 70806
+artist: Spencer Bagert
+sponsor: 
+location: Mid-City
+debuted: 2016
+name: Twine logo
 ---
