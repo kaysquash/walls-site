@@ -1,7 +1,7 @@
 ---
 number: 67
 address: 6505 Scenic Hwy Baton Rouge LA 70807
-artist: Sydney McGraw + Runnels Class
+artist: "Sydney McGraw + Runnels Class"
 sponsor: 
 location: Scotlandville
 debuted: 2018
